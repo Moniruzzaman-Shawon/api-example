@@ -1,1 +1,1 @@
-### Hi there 👋, these are practice examples of API
+### Hi there 👋, these are some practice-examples of API
